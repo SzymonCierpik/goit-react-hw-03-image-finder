@@ -8,6 +8,3 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App />
   </React.StrictMode>
 );
-
-// Utwórz komponenty <Searchbar>, <ImageGallery>, <ImageGalleryItem>, <Loader>, <Button> i <Modal>.
-//  Gotowe style komponentów można wziąć z pliku styles.css i dostosować do siebie, jeśli jest to potrzebne.

@@ -1,3 +1,3 @@
-<ul class="gallery">
+{/* <ul class="gallery">
   <!-- Zbiór <li> z obrazami -->
-</ul>
+</ul> */}
